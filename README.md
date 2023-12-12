@@ -28,6 +28,12 @@ Alert rule set up to send notifications (email and SMS) when the system's resour
 Used for mapping the deployment to a custom domain.
 www.kyutorn.site is configured to point to the online food ordering system.
 
+4) Azure AI Service: Azure AI Language 
+   Azure AI Language is a managed service for developing natural language
+   processing applications. Identify key terms and phrases, analyze sentiment,
+   summarize text, and build conversational interfaces. Use Language to annotate,
+   train, evaluate, and deploy customizable AI models with minimal machine-learning expertise.
+   
 ##Deployment Instructions
 1)Deploy two virtual machines running Ubuntu Server.
 2)Install Apache2 and MySQL on both Server1 and Server2.
